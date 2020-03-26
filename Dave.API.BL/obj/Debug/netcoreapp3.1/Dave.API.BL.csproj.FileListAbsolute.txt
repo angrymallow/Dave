@@ -1,0 +1,8 @@
+C:\Users\carme\source\repos\Dave.API\Dave.API.BL\bin\Debug\netcoreapp3.1\Dave.API.BL.deps.json
+C:\Users\carme\source\repos\Dave.API\Dave.API.BL\bin\Debug\netcoreapp3.1\Dave.API.BL.dll
+C:\Users\carme\source\repos\Dave.API\Dave.API.BL\bin\Debug\netcoreapp3.1\Dave.API.BL.pdb
+C:\Users\carme\source\repos\Dave.API\Dave.API.BL\obj\Debug\netcoreapp3.1\Dave.API.BL.csprojAssemblyReference.cache
+C:\Users\carme\source\repos\Dave.API\Dave.API.BL\obj\Debug\netcoreapp3.1\Dave.API.BL.AssemblyInfoInputs.cache
+C:\Users\carme\source\repos\Dave.API\Dave.API.BL\obj\Debug\netcoreapp3.1\Dave.API.BL.AssemblyInfo.cs
+C:\Users\carme\source\repos\Dave.API\Dave.API.BL\obj\Debug\netcoreapp3.1\Dave.API.BL.dll
+C:\Users\carme\source\repos\Dave.API\Dave.API.BL\obj\Debug\netcoreapp3.1\Dave.API.BL.pdb

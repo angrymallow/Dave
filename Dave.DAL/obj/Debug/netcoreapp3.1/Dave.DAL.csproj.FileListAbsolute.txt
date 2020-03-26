@@ -1,0 +1,13 @@
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\bin\Debug\netcoreapp3.1\Dave.DAL.deps.json
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\bin\Debug\netcoreapp3.1\Dave.DAL.dll
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\obj\Debug\netcoreapp3.1\Dave.DAL.csprojAssemblyReference.cache
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\obj\Debug\netcoreapp3.1\Dave.DAL.AssemblyInfoInputs.cache
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\obj\Debug\netcoreapp3.1\Dave.DAL.AssemblyInfo.cs
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\bin\Debug\netcoreapp3.1\Dave.Core.dll
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\bin\Debug\netcoreapp3.1\Dave.DAL.runtimeconfig.json
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\bin\Debug\netcoreapp3.1\Dave.DAL.runtimeconfig.dev.json
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\bin\Debug\netcoreapp3.1\Dave.DAL.pdb
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\bin\Debug\netcoreapp3.1\Dave.Core.pdb
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\obj\Debug\netcoreapp3.1\Dave.DAL.csproj.CopyComplete
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\obj\Debug\netcoreapp3.1\Dave.DAL.dll
+C:\Users\carme\source\repos\Dave.API\Dave.DAL\obj\Debug\netcoreapp3.1\Dave.DAL.pdb
